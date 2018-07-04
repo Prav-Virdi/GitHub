@@ -1,0 +1,3 @@
+[submodule "GitHub"]
+	path = GitHub
+	url = https://github.com/prav-virdi/MyFirstApp
